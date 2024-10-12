@@ -504,7 +504,7 @@ body {
   align-items: center !important;
 }
 
-#vvp-items-grid, #tab-unavailable, #tab-hidden, #tab-favourite {
+#vvp-items-grid, #tab-unavailable, #tab-hidden, #tab-pinned {
   grid-template-columns: repeat(
     auto-fill,
     minmax(var(--grid-column-width), auto)
