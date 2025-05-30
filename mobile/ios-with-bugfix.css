@@ -74,6 +74,7 @@ body {
 
 .a-search {
   flex-grow: 1;
+  width: unset !important;
 }
 
 #vvp-search-text-input {
