@@ -898,10 +898,6 @@ ul.a-tabs li.a-active a {
   background-color: #282b2b !important;
 }
 
-.vvp-account-box strong {
-  color: #a7aaaa !important;
-}
-
 .vvp-aqua {
   color: #00b1cc !important;
 }
@@ -1213,7 +1209,15 @@ ol.a-carousel {
 }
 
 /* USA new account page */
+.vvp-account-box strong {
+  color: unset !important;
+}
+
 #vvp-vine-account-details-box {
   color: black !important;
-  background-color: #f0f2f1;
+  background-color: #f0f2f1 !important;
+}
+
+#vvp-vine-account-details-box ul li {
+  color: black !important;
 }
