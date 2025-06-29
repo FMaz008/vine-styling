@@ -1211,3 +1211,9 @@ div#rhf .a-color-link {
 ol.a-carousel {
   color: #eff1f1;
 }
+
+/* USA new account page */
+#vvp-vine-account-details-box {
+  color: black !important;
+  background-color: #f0f2f1;
+}
